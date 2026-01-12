@@ -3,7 +3,7 @@ export default function Home() {
     <main>
       {/* Hero Section */}
       <section>
-        <h1>Welcome to Memorial Trucking LLC</h1>
+        <h1>Welcome to Memorial Transportation LLC</h1>
         <p>
           This is a Next.js website. We are building it step by step.
         </p>
