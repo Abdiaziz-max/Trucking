@@ -44,7 +44,7 @@ export default function Home() {
         backgroundColor: "#1e3a8a",
         color: "#fff"
       }}>
-        © {new Date().getFullYear()} My Website. All rights reserved.
+        © {new Date().getFullYear()} Memorial Transportation LLC. All rights reserved.
       </footer>
     </main>
   );
