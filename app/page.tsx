@@ -32,8 +32,8 @@ export default function Home() {
       {/* Contact Section */}
       <section>
         <h2>Contact Us</h2>
-        <p>Phone: (404) 000-0000</p>
-        <p>Email: info@mywebsite.com</p>
+        <p>Phone: (470) 546-9468</p>
+        <p>Email: abdiazizwebsite.com</p>
         <p>Location: Georgia, USA</p>
       </section>
 
