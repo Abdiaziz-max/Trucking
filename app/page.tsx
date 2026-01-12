@@ -1,3 +1,5 @@
+import USAMap from "../components/USAMap";
+
 export default function Home() {
   return (
     <main>
@@ -27,7 +29,13 @@ export default function Home() {
           <li>Dedicated contract loads</li>
           <li>Real-time tracking of shipments</li>
         </ul>
-      </section>
+      </section>{/* Map Section */}
+<section>
+  <h2>Our Coverage</h2>
+  <USAMap />
+</section>
+
+      
 
       {/* Contact Section */}
       <section>
